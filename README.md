@@ -1,7 +1,7 @@
 # weather_app
 This is basic weather app which i have completed with django.it created with a weather api.you can get the its weather api key on <a href="https://openweathermap.org/current">openweatherapp.org</a>.
 
-<hr><br>
+<hr><br></br></hr>
 <h3>Installation</h3>
 1.virtualenv your_virtual_env_name
 2.pip install requirements.txt
