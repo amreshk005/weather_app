@@ -2,11 +2,11 @@
 This is basic weather app which i have completed with django.it created with a weather api.you can get the its weather api key on <a href="https://openweathermap.org/current">openweatherapp.org</a>.
 
 <h3>Installation</h3>
-1.virtualenv your_virtual_env_name
-2.pip install requirements.txt
-3.python manage.py makemigrations
-4.python manage.py migrate
-5.python manage.py runserver
+1.virtualenv your_virtual_env_name<br>
+2.pip install requirements.txt<br>
+3.python manage.py makemigrations<br>
+4.python manage.py migrate<br>
+5.python manage.py runserver<br>
 
 
 <hr>
